@@ -10,9 +10,6 @@
     </div>
 </div>
 <br>  
-<br>  
-<br>  
-<br>  
 
 ## 🌐 Minhas redes 
 
