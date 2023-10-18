@@ -17,16 +17,19 @@
   <img align="right" height="250" alt="coding-time" src="code.gif">
 </div>
 
-# 🔝 Contribuições:
-
-![](https://github-contributor-stats.vercel.app/api?username=IvanEng2019&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
-
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=IvanEng2019&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IvanEng2019&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanEng2019&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+# 🔝 Contribuições:
+
+![](https://github-contributor-stats.vercel.app/api?username=IvanEng2019&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=IvanEng2019&icon=5&color=1)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/IvanEng2019/IvanEng2019/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ✍️ Frase Dev Do dia:
@@ -35,5 +38,5 @@
 ### 😂 Meme Dev do dia:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=IvanEng2019&icon=5&color=1)](https://visitcount.itsvg.in)
