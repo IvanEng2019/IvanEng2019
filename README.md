@@ -1,6 +1,6 @@
 # 💫 Faaaala dev, Ivan Aqui!
 
-<div>
+<div 
        <h5 align="left"> Minha foto feito por IA </h5>
        <img align="left" height="200" alt="ia" src="ia.jpg">
        <br> Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.
