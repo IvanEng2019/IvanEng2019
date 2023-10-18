@@ -44,8 +44,6 @@
 ### 😂 Meme Dev do dia:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-![Snake animation](https://github.com/IvanEng2019/IvanEng2019//blob/output/github-contribution-grid-snake.svg)
-
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=IvanEng2019&icon=5&color=1)](https://visitcount.itsvg.in)
