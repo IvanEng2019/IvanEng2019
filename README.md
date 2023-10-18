@@ -2,7 +2,7 @@
 <div align= "center">
     <div align="left">
         Minha foto feito por IA <br>
-       <img height="200" alt="ia" src="ia.jpg"> <br>
+       <img height="200" alt="ia" src="ia.jpg">
     </div>
     <div>
        Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.<br>
