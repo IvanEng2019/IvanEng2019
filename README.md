@@ -6,17 +6,13 @@
        <br> Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.
        <br> Gosto muito de tecnologia e sou apaixonado por IA, Banco de Dados e Programação.
        <br> Meu Objetivo no Git é ajudar a contribuir com a comunidade DEV com meus projetos e a compartilhar meu aprendizado como meus atuais e futuros colegas de TI.
-       <br> Meu objetivo atual é estagiar na Area des Sistemas de Informação para finalizar minha formação academica.<br> 
+       <br> Meu objetivo atual é estagiar na Area des Sistemas de Informação para finalizar minha formação academica.<br> <br>
 </div>
-<br> 
-<br>  
-<br> 
 
-###🌐 Minhas Redes Sociais
+### 🌐 Minhas Redes Sociais:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.okta.com/leoni) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ivanleoni.vilasboas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/loukavida/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leoni-vilas-boas-46bb6a76/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/ivanleoni18/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivanleonivb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCRMboQd2DDw_FgtmOuCTtnA) 
 <br>  
-<br>
 
 ### 💻 Tech Stack:
 <br>  
@@ -35,6 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanEng2019&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
+
 ### 🔝 Contribuições:
 
 ![](https://github-contributor-stats.vercel.app/api?username=IvanEng2019&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
