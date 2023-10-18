@@ -3,7 +3,7 @@
 <div>     
        <h5 align="left"> Minha foto feito por IA </h5>
        <img align="left" height="200" alt="ia" src="ia.jpg">
-       <br> Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.
+       Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.
        <br> Gosto muito de tecnologia e sou apaixonado por IA, Banco de Dados e Programação.
        <br> Meu Objetivo no Git é ajudar a contribuir com a comunidade DEV com meus projetos e a compartilhar meu aprendizado como meus atuais e futuros colegas de TI.
        <br> Meu objetivo atual é estagiar na Area des Sistemas de Informação para finalizar minha formação academica.<br> <br> <br><br>
