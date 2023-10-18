@@ -1,12 +1,16 @@
 # 💫 Faaaala dev, Ivan Aqui!
+
 <div align= "center">
-        Minha foto feito por IA <br>
        <img align="left" height="200" alt="ia" src="ia.jpg">
-       Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.<br>
+       <br> Aqui se encontram alguns dos meus trabalhos e projetos desenvolvidos principalmente na UNIFEI no curso de Sistemas de Informação.<br>
+       <br> Gosto muito de tecnologia e sou apaixonado por IA, Banco de Dados e Programação.<br>
+       <br> Meu Objetivo no Git é ajudar a contribuir com a comunidade DEV com meus projetos e a compartilhar meu aprendizado como meus atuais e futuros colegas de TI <br>
+       <br> Meu objetivo atual é estagiar na Area des Sistemas de Informação para finalizar minha formação academica <br>
 </div>
+ <h3> Minha foto feito por IA </h3>
 <br>  
 
-## 🌐 Minhas redes 
+## 🌐 Minhas Redes Sociais
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.okta.com/leoni) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ivanleoni.vilasboas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/loukavida/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ivan-leoni-vilas-boas-46bb6a76/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://br.pinterest.com/ivanleoni18/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ivanleonivb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCRMboQd2DDw_FgtmOuCTtnA) 
 <br>  
