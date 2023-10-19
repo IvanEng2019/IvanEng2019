@@ -19,7 +19,7 @@
 
 ### 💻 Tech Stack:
 
-A maioria dos projetos da UNIFEI são realizados em Equipe e comtemplam além da teoria da disciplina alguma técnica e/ou tecnologia. Cada trabalho e/ou projeto possui a sua especificidade e algum tipo de tecnologia. Entre algumas destas tecnologias utilizadas estão: <br>
+A maioria dos projetos da UNIFEI são realizados em Equipe e comtemplam além da teoria da disciplina alguma técnica e/ou tecnologia. Cada trabalho e/ou projeto possui a sua especificidade e algum tipo de tecnologia. Os trabalhos, os códigos e projetos serão encontrados no diretorio "UNIFEI". Dentre algumas das tecnologias utilizadas estão: <br>
 
 <div>
   <img align="right" height="250" alt="coding-time" src="code.gif">
