@@ -9,7 +9,7 @@
        <br> Meu objetivo atual é estagiar na Area des Sistemas de Informação para finalizar minha formação academica.
 </div>      
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139). com alguns trabalhos, codigos e projetos        desenvolvidos no curso de Sistemas.
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) com alguns trabalhos, codigos e projetos        desenvolvidos no curso de Sistemas.
 <br> <br> <br> <br>
 
 ### 🌐 Minhas Redes Sociais:
