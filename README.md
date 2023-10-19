@@ -7,6 +7,7 @@
        <br> Gosto muito de tecnologia e sou apaixonado por IA, Banco de Dados e Programação.
        <br> Meu Objetivo no Git é ajudar a contribuir com a comunidade DEV com meus projetos e a compartilhar meu aprendizado como meus atuais e futuros colegas de TI.
 </div>      
+<br> <br>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) com alguns trabalhos, codigos e projetos        desenvolvidos no curso de Sistemas.
 
